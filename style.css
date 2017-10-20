@@ -1,0 +1,22 @@
+#texto{
+	margin: 5%
+}
+
+h1{
+	color: #f7b617;
+	font-family: 'Merriweather', serif;
+}
+
+h3{
+	color: #b2b2b2;
+	font-family: 'Lora', serif;
+}
+
+p{
+	text-align:justify;
+	font-family: 'Indie Flower', cursive;
+}
+
+.centrar{
+	text-align:white;
+}
